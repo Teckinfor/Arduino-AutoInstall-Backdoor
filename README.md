@@ -1,4 +1,4 @@
-For the moment, Windows Defender block the payload but if you have another one, it could works.
+For the moment, Windows Defender block the payload but if you have another one, it could work.
 Thank you for waiting.
 
 # What you need ?
